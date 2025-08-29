@@ -1,0 +1,23 @@
+{
+  "name": "redhat_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manavj08/redhat_project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manavj08/redhat_project/issues"
+  },
+  "homepage": "https://github.com/manavj08/redhat_project#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
